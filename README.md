@@ -1,2 +1,2 @@
 # What-up-World
-DezPrime's first repository.
+I am the creator of this world.
